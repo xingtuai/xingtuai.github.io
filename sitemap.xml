@@ -2,30 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://jemgeek.com/archives/2019/qiniu-backup-images.html</loc>
+    <loc>http://jemgeek.com/archives/2016/android-alipay-tutorial.html</loc>
     
-    <lastmod>2019-02-23T09:08:00.837Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jemgeek.com/archives/2019/android-studio-quality-plugins.html</loc>
-    
-    <lastmod>2019-02-23T09:08:00.831Z</lastmod>
+    <lastmod>2019-02-23T10:15:27.904Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://jemgeek.com/archives/2019/android-studio-necessary-config.html</loc>
+    <loc>http://jemgeek.com/archives/2016/android-base-config.html</loc>
     
-    <lastmod>2019-02-23T09:08:00.827Z</lastmod>
+    <lastmod>2019-02-23T10:15:26.926Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://jemgeek.com/archives/2019/android-studio-installation.html</loc>
     
-    <lastmod>2019-02-23T09:08:00.823Z</lastmod>
+    <lastmod>2019-02-23T10:15:25.717Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jemgeek.com/archives/2019/android-studio-necessary-config.html</loc>
+    
+    <lastmod>2019-02-23T10:15:24.836Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jemgeek.com/archives/2019/android-studio-quality-plugins.html</loc>
+    
+    <lastmod>2019-02-23T10:15:23.160Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jemgeek.com/archives/2016/android-wechat-pay-tutorial.html</loc>
+    
+    <lastmod>2019-02-23T10:15:22.240Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jemgeek.com/archives/2016/git-github-base-usage.html</loc>
+    
+    <lastmod>2019-02-23T10:15:17.010Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jemgeek.com/archives/2016/git-github-base.html</loc>
+    
+    <lastmod>2019-02-23T10:15:14.864Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jemgeek.com/archives/2017/spring-boot-log4j2-config.html</loc>
+    
+    <lastmod>2019-02-23T10:15:13.291Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jemgeek.com/archives/2016/android-activity-manager.html</loc>
+    
+    <lastmod>2019-02-23T10:12:32.819Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jemgeek.com/about/index.html</loc>
+    
+    <lastmod>2019-02-23T10:10:46.126Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jemgeek.com/archives/2019/qiniu-backup-images.html</loc>
+    
+    <lastmod>2019-02-23T09:08:00.837Z</lastmod>
     
   </url>
   
@@ -44,13 +100,6 @@
   </url>
   
   <url>
-    <loc>http://jemgeek.com/about/index.html</loc>
-    
-    <lastmod>2019-01-15T11:29:42.482Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://jemgeek.com/archives/2017/web-jquery-timed-refresh.html</loc>
     
     <lastmod>2019-01-15T11:29:42.481Z</lastmod>
@@ -61,13 +110,6 @@
     <loc>http://jemgeek.com/archives/2016/summary-address-of-android-common-tools.html</loc>
     
     <lastmod>2019-01-15T11:29:42.480Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jemgeek.com/archives/2017/spring-boot-log4j2-config.html</loc>
-    
-    <lastmod>2019-01-15T11:29:42.479Z</lastmod>
     
   </url>
   
@@ -86,20 +128,6 @@
   </url>
   
   <url>
-    <loc>http://jemgeek.com/archives/2016/git-github-base.html</loc>
-    
-    <lastmod>2019-01-15T11:29:42.474Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jemgeek.com/archives/2016/git-github-base-usage.html</loc>
-    
-    <lastmod>2019-01-15T11:29:42.473Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://jemgeek.com/archives/2016/git-base-usage-summary.html</loc>
     
     <lastmod>2019-01-15T11:29:42.472Z</lastmod>
@@ -114,37 +142,9 @@
   </url>
   
   <url>
-    <loc>http://jemgeek.com/archives/2016/android-wechat-pay-tutorial.html</loc>
-    
-    <lastmod>2019-01-15T11:29:42.468Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://jemgeek.com/archives/2017/android-ble-base.html</loc>
     
     <lastmod>2019-01-15T11:29:42.467Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jemgeek.com/archives/2016/android-base-config.html</loc>
-    
-    <lastmod>2019-01-15T11:29:42.466Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jemgeek.com/archives/2016/android-alipay-tutorial.html</loc>
-    
-    <lastmod>2019-01-15T11:29:42.465Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jemgeek.com/archives/2016/android-activity-manager.html</loc>
-    
-    <lastmod>2019-01-15T11:29:42.464Z</lastmod>
     
   </url>
   
