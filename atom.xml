@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>James Blog</title>
   
-  <subtitle>A Lonely Programmer</subtitle>
+  <subtitle>不为繁华易匠心</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jemgeek.com/"/>
