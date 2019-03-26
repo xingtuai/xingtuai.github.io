@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jemgeek.com/about/index.html</loc>
+    
+    <lastmod>2019-03-26T13:52:35.047Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jemgeek.com/archives/2019/java-equals-fully-resolved.html</loc>
     
     <lastmod>2019-03-25T13:32:35.780Z</lastmod>
@@ -89,13 +96,6 @@
     <loc>http://jemgeek.com/archives/2016/android-activity-manager.html</loc>
     
     <lastmod>2019-02-23T10:12:32.819Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jemgeek.com/about/index.html</loc>
-    
-    <lastmod>2019-02-23T10:10:46.126Z</lastmod>
     
   </url>
   
