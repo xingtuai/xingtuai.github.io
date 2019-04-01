@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://jemgeek.com/archives/2017/spring-boot-log4j2-config.html</loc>
+    <loc>http://jemgeek.com/archives/2019/spring-boot-file-upload-download.html</loc>
     <lastmod>2019-04-01</lastmod>
   </url>  <url>
-    <loc>http://jemgeek.com/archives/2019/spring-boot-file-upload-download.html</loc>
-    <lastmod>2019-03-29</lastmod>
+    <loc>http://jemgeek.com/archives/2017/spring-boot-log4j2-config.html</loc>
+    <lastmod>2019-04-01</lastmod>
   </url>  <url>
     <loc>http://jemgeek.com/archives/2019/java-equals-fully-resolved.html</loc>
     <lastmod>2019-03-25</lastmod>
