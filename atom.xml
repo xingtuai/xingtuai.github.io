@@ -334,9 +334,9 @@
     
       <category term="Android" scheme="http://jemgeek.com/tags/Android/"/>
     
-      <category term="Activity" scheme="http://jemgeek.com/tags/Activity/"/>
-    
       <category term="项目实践" scheme="http://jemgeek.com/tags/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5/"/>
+    
+      <category term="Activity" scheme="http://jemgeek.com/tags/Activity/"/>
     
   </entry>
   
