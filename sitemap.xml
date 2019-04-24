@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jemgeek.com/archives/2019/docker-base-install.html</loc>
+    
+    <lastmod>2019-04-24T15:03:12.951Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jemgeek.com/about/index.html</loc>
+    
+    <lastmod>2019-04-24T12:17:21.514Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jemgeek.com/archives/2019/install-shadowsocks-on-vultr.html</loc>
     
     <lastmod>2019-04-17T16:06:08.182Z</lastmod>
@@ -19,13 +33,6 @@
     <loc>http://jemgeek.com/archives/2017/spring-boot-log4j2-config.html</loc>
     
     <lastmod>2019-04-01T14:54:12.302Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jemgeek.com/about/index.html</loc>
-    
-    <lastmod>2019-03-29T17:17:46.200Z</lastmod>
     
   </url>
   
