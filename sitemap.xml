@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jemgeek.com/archives/2019/install-gitlab-with-docker.html</loc>
+    
+    <lastmod>2019-04-25T15:59:44.063Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jemgeek.com/archives/2019/docker-base-install.html</loc>
     
-    <lastmod>2019-04-24T15:04:09.940Z</lastmod>
+    <lastmod>2019-04-25T14:06:03.620Z</lastmod>
     
   </url>
   
