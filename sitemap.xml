@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jemgeek.com/archives/2019/docker-base-install.html</loc>
+    
+    <lastmod>2019-11-01T13:15:50.296Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jemgeek.com/archives/2019/docker-install-centos.html</loc>
     
     <lastmod>2019-10-25T16:51:14.357Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://jemgeek.com/archives/2019/docker-mysql-install.html</loc>
     
     <lastmod>2019-10-13T07:40:04.558Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jemgeek.com/archives/2019/docker-base-install.html</loc>
-    
-    <lastmod>2019-10-13T05:13:45.499Z</lastmod>
     
   </url>
   
