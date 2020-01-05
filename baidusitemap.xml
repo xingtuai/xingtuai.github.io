@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://jemgeek.com/archives/2019/java-equals-fully-resolved.html</loc>
+    <lastmod>2020-01-05</lastmod>
+  </url>  <url>
     <loc>http://jemgeek.com/archives/2019/docker-base-install.html</loc>
     <lastmod>2019-11-01</lastmod>
   </url>  <url>
@@ -21,9 +24,6 @@
   </url>  <url>
     <loc>http://jemgeek.com/archives/2017/spring-boot-log4j2-config.html</loc>
     <lastmod>2019-04-01</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2019/java-equals-fully-resolved.html</loc>
-    <lastmod>2019-03-25</lastmod>
   </url>  <url>
     <loc>http://jemgeek.com/archives/2019/android-push-mqtt-base-usage.html</loc>
     <lastmod>2019-02-23</lastmod>
