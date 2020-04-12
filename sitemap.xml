@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jemgeek.com/archives/2016/android-wechat-pay-tutorial.html</loc>
+    
+    <lastmod>2020-04-12T06:21:54.809Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jemgeek.com/archives/2018/android-studio-quality-plugins.html</loc>
+    
+    <lastmod>2020-04-12T06:21:41.862Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jemgeek.com/archives/2018/android-studio-necessary-config.html</loc>
+    
+    <lastmod>2020-04-12T06:21:29.148Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jemgeek.com/archives/2018/android-studio-installation.html</loc>
+    
+    <lastmod>2020-04-12T06:21:07.917Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jemgeek.com/about/index.html</loc>
     
     <lastmod>2020-04-12T06:10:15.378Z</lastmod>
@@ -89,34 +117,6 @@
     <loc>http://jemgeek.com/archives/2016/android-base-config.html</loc>
     
     <lastmod>2019-02-23T10:15:26.926Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jemgeek.com/archives/2019/android-studio-installation.html</loc>
-    
-    <lastmod>2019-02-23T10:15:25.717Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jemgeek.com/archives/2019/android-studio-necessary-config.html</loc>
-    
-    <lastmod>2019-02-23T10:15:24.836Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jemgeek.com/archives/2019/android-studio-quality-plugins.html</loc>
-    
-    <lastmod>2019-02-23T10:15:23.160Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jemgeek.com/archives/2016/android-wechat-pay-tutorial.html</loc>
-    
-    <lastmod>2019-02-23T10:15:22.240Z</lastmod>
     
   </url>
   

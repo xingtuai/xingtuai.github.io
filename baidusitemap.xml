@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://jemgeek.com/archives/2016/android-wechat-pay-tutorial.html</loc>
+    <lastmod>2020-04-12</lastmod>
+  </url>  <url>
+    <loc>http://jemgeek.com/archives/2018/android-studio-quality-plugins.html</loc>
+    <lastmod>2020-04-12</lastmod>
+  </url>  <url>
+    <loc>http://jemgeek.com/archives/2018/android-studio-necessary-config.html</loc>
+    <lastmod>2020-04-12</lastmod>
+  </url>  <url>
+    <loc>http://jemgeek.com/archives/2018/android-studio-installation.html</loc>
+    <lastmod>2020-04-12</lastmod>
+  </url>  <url>
     <loc>http://jemgeek.com/archives/2019/docker-install-mysql-master-slave.html</loc>
     <lastmod>2020-03-21</lastmod>
   </url>  <url>
@@ -35,18 +47,6 @@
     <lastmod>2019-02-23</lastmod>
   </url>  <url>
     <loc>http://jemgeek.com/archives/2016/android-base-config.html</loc>
-    <lastmod>2019-02-23</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2019/android-studio-installation.html</loc>
-    <lastmod>2019-02-23</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2019/android-studio-necessary-config.html</loc>
-    <lastmod>2019-02-23</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2019/android-studio-quality-plugins.html</loc>
-    <lastmod>2019-02-23</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2016/android-wechat-pay-tutorial.html</loc>
     <lastmod>2019-02-23</lastmod>
   </url>  <url>
     <loc>http://jemgeek.com/archives/2016/git-github-base-usage.html</loc>
