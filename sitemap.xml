@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jemgeek.com/about/index.html</loc>
+    
+    <lastmod>2020-04-12T06:10:15.378Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jemgeek.com/archives/2019/docker-install-mysql-master-slave.html</loc>
+    
+    <lastmod>2020-03-21T09:53:22.092Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jemgeek.com/archives/2019/java-equals-fully-resolved.html</loc>
     
     <lastmod>2020-01-05T03:33:12.112Z</lastmod>
@@ -33,13 +47,6 @@
     <loc>http://jemgeek.com/archives/2019/install-gitlab-with-docker.html</loc>
     
     <lastmod>2019-04-25T16:19:41.793Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jemgeek.com/about/index.html</loc>
-    
-    <lastmod>2019-04-24T12:17:21.514Z</lastmod>
     
   </url>
   
