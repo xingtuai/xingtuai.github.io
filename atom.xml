@@ -43,30 +43,6 @@
   </entry>
   
   <entry>
-    <title>Docker 搭建 MySQL 主从复制集群</title>
-    <link href="http://jemgeek.com/archives/2019/docker-install-mysql-master-slave.html"/>
-    <id>http://jemgeek.com/archives/2019/docker-install-mysql-master-slave.html</id>
-    <published>2019-10-12T12:33:47.000Z</published>
-    <updated>2020-03-21T09:53:22.092Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://i.loli.net/2019/10/13/UB2IC1wopdhVeKZ.jpg" alt="docker-install-mysql.jpg"></p><p>本篇将介绍如何使用 Docker 部署 MySQL 数据库及远程访问配置。</p><a id="more"></a>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://i.loli.net/2019/10/13/UB2IC1wopdhVeKZ.jpg&quot; alt=&quot;docker-install-mysql.jpg&quot;&gt;&lt;/p&gt;&lt;p&gt;本篇将介绍如何使用 Docker 部署 MySQL 数据库及远程访问配置。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="Docker" scheme="http://jemgeek.com/categories/Docker/"/>
-    
-    
-      <category term="Docker" scheme="http://jemgeek.com/tags/Docker/"/>
-    
-      <category term="MySQL" scheme="http://jemgeek.com/tags/MySQL/"/>
-    
-  </entry>
-  
-  <entry>
     <title>安装 Docker 和 Docker Compose (Centos 7)</title>
     <link href="http://jemgeek.com/archives/2019/docker-install-centos.html"/>
     <id>http://jemgeek.com/archives/2019/docker-install-centos.html</id>
@@ -89,6 +65,30 @@
       <category term="Docker Compose" scheme="http://jemgeek.com/tags/Docker-Compose/"/>
     
       <category term="centos" scheme="http://jemgeek.com/tags/centos/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker 搭建 MySQL 主从复制集群</title>
+    <link href="http://jemgeek.com/archives/2019/docker-install-mysql-master-slave.html"/>
+    <id>http://jemgeek.com/archives/2019/docker-install-mysql-master-slave.html</id>
+    <published>2019-10-12T12:33:47.000Z</published>
+    <updated>2020-03-21T09:53:22.092Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.loli.net/2019/10/13/UB2IC1wopdhVeKZ.jpg" alt="docker-install-mysql.jpg"></p><p>本篇将介绍如何使用 Docker 部署 MySQL 数据库及远程访问配置。</p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://i.loli.net/2019/10/13/UB2IC1wopdhVeKZ.jpg&quot; alt=&quot;docker-install-mysql.jpg&quot;&gt;&lt;/p&gt;&lt;p&gt;本篇将介绍如何使用 Docker 部署 MySQL 数据库及远程访问配置。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Docker" scheme="http://jemgeek.com/categories/Docker/"/>
+    
+    
+      <category term="Docker" scheme="http://jemgeek.com/tags/Docker/"/>
+    
+      <category term="MySQL" scheme="http://jemgeek.com/tags/MySQL/"/>
     
   </entry>
   
