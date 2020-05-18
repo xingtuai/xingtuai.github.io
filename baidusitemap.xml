@@ -1,97 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://jemgeek.com/archives/2020/spring-boot-singleton-ioc.html</loc>
+    <loc>http://xingtuai.com/archives/2020/spring-boot-singleton-ioc.html</loc>
     <lastmod>2020-05-01</lastmod>
   </url>  <url>
-    <loc>http://jemgeek.com/archives/2016/android-activity-manager.html</loc>
-    <lastmod>2020-04-28</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2016/android-wechat-pay-tutorial.html</loc>
-    <lastmod>2020-04-12</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2018/android-studio-quality-plugins.html</loc>
-    <lastmod>2020-04-12</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2018/android-studio-necessary-config.html</loc>
-    <lastmod>2020-04-12</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2018/android-studio-installation.html</loc>
-    <lastmod>2020-04-12</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2019/docker-install-mysql-master-slave.html</loc>
+    <loc>http://xingtuai.com/archives/2019/docker-install-mysql-master-slave.html</loc>
     <lastmod>2020-03-21</lastmod>
   </url>  <url>
-    <loc>http://jemgeek.com/archives/2019/java-equals-fully-resolved.html</loc>
+    <loc>http://xingtuai.com/archives/2019/java-equals-fully-resolved.html</loc>
     <lastmod>2020-01-05</lastmod>
   </url>  <url>
-    <loc>http://jemgeek.com/archives/2019/docker-base-install.html</loc>
+    <loc>http://xingtuai.com/archives/2019/docker-base-install.html</loc>
     <lastmod>2019-11-01</lastmod>
   </url>  <url>
-    <loc>http://jemgeek.com/archives/2019/docker-install-centos.html</loc>
+    <loc>http://xingtuai.com/archives/2019/docker-install-centos.html</loc>
     <lastmod>2019-10-25</lastmod>
   </url>  <url>
-    <loc>http://jemgeek.com/archives/2019/docker-mysql-install.html</loc>
+    <loc>http://xingtuai.com/archives/2019/docker-mysql-install.html</loc>
     <lastmod>2019-10-13</lastmod>
   </url>  <url>
-    <loc>http://jemgeek.com/archives/2019/install-gitlab-with-docker.html</loc>
-    <lastmod>2019-04-25</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2019/install-shadowsocks-on-vultr.html</loc>
-    <lastmod>2019-04-17</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2019/spring-boot-file-upload-download.html</loc>
+    <loc>http://xingtuai.com/archives/2019/spring-boot-file-upload-download.html</loc>
     <lastmod>2019-04-01</lastmod>
   </url>  <url>
-    <loc>http://jemgeek.com/archives/2017/spring-boot-log4j2-config.html</loc>
+    <loc>http://xingtuai.com/archives/2017/spring-boot-log4j2-config.html</loc>
     <lastmod>2019-04-01</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2019/android-push-mqtt-base-usage.html</loc>
-    <lastmod>2019-02-23</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2016/android-alipay-tutorial.html</loc>
-    <lastmod>2019-02-23</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2016/android-base-config.html</loc>
-    <lastmod>2019-02-23</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2016/git-github-base-usage.html</loc>
-    <lastmod>2019-02-23</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2016/git-github-base.html</loc>
-    <lastmod>2019-02-23</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2017/web-jquery-timed-refresh.html</loc>
-    <lastmod>2019-02-23</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2019/qiniu-backup-images.html</loc>
-    <lastmod>2019-02-23</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2016/summary-address-of-android-common-tools.html</loc>
-    <lastmod>2019-01-15</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2016/science-online-used-lantern.html</loc>
-    <lastmod>2019-01-15</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2017/password-dict-generate.html</loc>
-    <lastmod>2019-01-15</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2016/git-base-usage-summary.html</loc>
-    <lastmod>2019-01-15</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2016/design-pattern-six-design-principle.html</loc>
-    <lastmod>2019-01-15</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2017/android-ble-base.html</loc>
-    <lastmod>2019-01-15</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2016/build-blog-by-hexo-based.html</loc>
-    <lastmod>2017-12-29</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2016/build-blog-by-hexo-advanced.html</loc>
-    <lastmod>2017-01-06</lastmod>
-  </url>  <url>
-    <loc>http://jemgeek.com/archives/2016/quality-software-and-resource.html</loc>
-    <lastmod>2016-03-15</lastmod>
   </url>
 </urlset>

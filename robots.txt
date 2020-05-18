@@ -12,5 +12,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://jemgeek.com/sitemap.xml
-Sitemap: https://jemgeek.com/baidusitemap.xml
+Sitemap: http://xingtuai.com/sitemap.xml
+Sitemap: http://xingtuai.com/baidusitemap.xml
